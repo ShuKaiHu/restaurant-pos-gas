@@ -11,3 +11,10 @@ https://www.paypal.com/paypalme/codingwithmike
 
 Here is a link to copy a completed sheet with app:
 https://bit.ly/3wPyYVj
+
+
+# SKHU 20240922
+I customized the original model to fit into Taiwan village.
+1. Use Taiwan currency as units, which is without fractional units like in the US dollar.
+2. Translate into traditional Chinese in parts of the functions.
+3. No credit card payment method is needed so far(which induced tips calculation, that is not common in Taiwan).
